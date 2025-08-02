@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Umut (Lucas) Sever
+🚀 Full-stack AI dev | Python & JS | React • Node • Next  
+🌎 Open to remote gigs, global teams  
+📫 DM me: umut.sever16@gmail.com
+[Instagram]([(https://www.instagram.com/umut.o.o/)]
 
-<!--
-**umuts0-freelancer/umuts0-freelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```js
+const stack = {
+  code: ["JS", "TS", "Python", "HTML", "CSS"],
+  front: ["React", "Next.js", "Redux", "SASS"],
+  back: ["Node", "Express", "Sequelize", "MongoDB"],
+  tools: ["Docker", "GitHub", "CI/CD", "Linux", "Figma"]
+};
+currentStatus = "Looking for my next adventure!";
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 💡 I build cool stuff, fast.
+- 🛠️ Always up for a collab.
+- 🌍 Work from anywhere.
+
+---
