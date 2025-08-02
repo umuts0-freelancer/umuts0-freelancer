@@ -2,7 +2,7 @@
 🚀 Full-stack AI dev | Python & JS | React • Node • Next  
 🌎 Open to remote gigs, global teams  
 📫 DM me: umut.sever16@gmail.com
-[Instagram]([(https://www.instagram.com/umut.o.o/)]
+[Instagram: (https://www.instagram.com/umut.o.o/)]
 
 ---
 
